@@ -1,5 +1,7 @@
 function App() {
-  return <h1>Hello</h1>;
+  return <button class="btn btn-primary">
+    create
+  </button>;
 }
 
 export default App;
