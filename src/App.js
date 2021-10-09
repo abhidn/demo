@@ -1,5 +1,5 @@
 function App() {
-  return <button class="btn btn-primary">
+  return <button class="btn btn-danger">
     create
   </button>;
 }
